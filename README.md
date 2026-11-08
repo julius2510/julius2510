@@ -52,26 +52,83 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🍳 Cooking Mama</h3>
-      <p align="center">Recipe collection website with recipe search, meal planning, and chatbot features.</p>
-      <p align="center"><b>HTML · CSS · JavaScript · AngularJS · MongoDB · Bootstrap</b></p>
+      <h3 align="center">🍳 MAMI Kitchen</h3>
+      <p align="center">A modern catering management platform.</p>
+      <p align="center">
+        <a href="https://mami-kitchen-catering.vercel.app/">Live Demo</a> ·
+        <a href="https://github.com/julius2510/MAMI-KITCHEN">GitHub</a>
+      </p>
     </td>
     <td width="50%">
-      <h3 align="center">📚 Training Registration System</h3>
-      <p align="center">A web-based training management and participant registration system.</p>
-      <p align="center"><b>Laravel · PHP · MySQL</b></p>
+      <h3 align="center">💜 Fluxora</h3>
+      <p align="center">A web application project focused on modern user experiences.</p>
+      <p align="center">
+        <a href="https://fluxora-beta.vercel.app/">Live Demo</a> ·
+        <a href="https://github.com/julius2510/Fluxora">GitHub</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📱 Social Media App</h3>
-      <p align="center">A mobile social platform with communities, subscriptions, and user interactions.</p>
-      <p align="center"><b>Flutter · Dart · Firebase</b></p>
+      <h3 align="center">⚡ Parallel</h3>
+      <p align="center">A modern web application built with Next.js.</p>
+      <p align="center">
+        <a href="https://parallel-whatif.vercel.app/">Live Demo</a> ·
+        <a href="https://github.com/julius2510/Parallel">GitHub</a>
+      </p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 Machine Learning Research</h3>
-      <p align="center">Academic projects exploring machine learning algorithms and data analysis.</p>
-      <p align="center"><b>Python · Machine Learning · Data Mining</b></p>
+      <h3 align="center">⏳ Echoes</h3>
+      <p align="center">A time capsule web application.</p>
+      <p align="center">
+        <a href="https://echoes-timecapsule.vercel.app/">Live Demo</a> ·
+        <a href="https://github.com/julius2510/Echoes">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📅 Spendly</h3>
+      <p align="center">A web application for managing bookings and scheduling.</p>
+      <p align="center">
+        <a href="https://spendly-book.vercel.app/">Live Demo</a> ·
+        <a href="https://github.com/julius2510/Spendly">GitHub</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 InsightFlow</h3>
+      <p align="center">A data-focused web application.</p>
+      <p align="center">
+        <a href="https://insightflow-data.vercel.app/">Live Demo</a> ·
+        <a href="https://github.com/julius2510/InsightFlow">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 Solevault</h3>
+      <p align="center">A modern web application project.</p>
+      <p align="center">
+        <a href="https://solevault-jade.vercel.app/">Live Demo</a> ·
+        <a href="https://github.com/julius2510/SOLEVAULT">GitHub</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⏰ Chronos</h3>
+      <p align="center">A temporal and time-focused web application.</p>
+      <p align="center">
+        <a href="https://chronos-temporal.vercel.app/">Live Demo</a> ·
+        <a href="https://github.com/julius2510/Chronos">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🤖 Research Assistant</h3>
+      <p align="center">An AI-powered research assistant for academic paper exploration and assistance.</p>
+      <p align="center">
+        <a href="https://ai-paper-mind.vercel.app/">Live Demo</a>
+      </p>
     </td>
   </tr>
 </table>
