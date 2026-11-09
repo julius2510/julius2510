@@ -150,6 +150,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julius2510/julius2510/output/github-snake-dark.svg" width="100%" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
