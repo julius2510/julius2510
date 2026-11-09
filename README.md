@@ -151,7 +151,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/julius2510/julius2510/output/github-snake-dark.svg" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=julius2510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
 </p>
 
 ---
