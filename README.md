@@ -158,10 +158,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=julius2510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
-</p>
+## 📈 Contribution Activity
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=julius2510&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
 ---
 
 ## 🌐 Connect With Me
